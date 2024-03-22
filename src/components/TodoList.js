@@ -28,7 +28,7 @@ const ToDoList = () => {
     setTasks(newTasks);
   };
 
-  console.log("coba")
+  console.log("coba coba ci cd")
 
   return (
     <div className="todo-list">
