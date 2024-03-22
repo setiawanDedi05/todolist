@@ -28,6 +28,8 @@ const ToDoList = () => {
     setTasks(newTasks);
   };
 
+  console.log("coba")
+
   return (
     <div className="todo-list">
       <h5>Todo list Application</h5>
